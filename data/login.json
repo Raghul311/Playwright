@@ -1,0 +1,12 @@
+[
+    {
+        "tcID"     :"tc01",
+        "username" :"demoSalesManager",
+        "password" :"crmsfa"
+    },
+    {
+        "tcID"     :"tc02",
+        "username" :"demoCRM",
+        "password" :"crmsfa"
+    }
+]

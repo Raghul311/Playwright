@@ -18,7 +18,7 @@ async enterCred(tuname:string, tpswd:string){
     await this.page.fill("#username",tuname),
     await this.page.getByRole("textbox",{name:"Password"}).fill(tpswd);
     await this.page.screenshot({
-  path: 'screens/Cred.png'
+  path: 'screens/Scrrenshot.png'
 });
 
 }
